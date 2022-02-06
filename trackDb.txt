@@ -3,10 +3,10 @@ bigDataUrl https://raw.githubusercontent.com/Yixf-Research/test4LA/main/BNS.bigI
 shortLabel LoopAnchor-BNS-1
 longLabel This loop file is an example for LoopAnchor
 type bigInteract
-visibility dense
+visibility hide
 
 track LAbns2
-bigDataUrl https://raw.githubusercontent.com/Yixf-Research/test4LA/main/BNS.bigInteract
+bigDataUrl http://2792wttzz8.xuduan.vip/VarNoteDB/BNS.bigInteract
 shortLabel LoopAnchor-BNS-2
 longLabel This loop file is an example for LoopAnchor
 type bigInteract
