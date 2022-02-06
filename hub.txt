@@ -1,0 +1,5 @@
+hub TestForLoopAnchor
+shortLabel LoopAnchor's hub
+longLabel Loops detected by LoopAnchor
+genomesFile genomes.txt
+email  loopanchor@gmail.com

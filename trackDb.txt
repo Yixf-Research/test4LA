@@ -1,0 +1,6 @@
+track LAbns
+bigDataUrl https://www.dropbox.com/s/je4zj5tl5dd2c53/BNS.bigInteract
+shortLabel LoopAnchor-BNS
+longLabel This loop file is an example for LoopAnchor
+type bigBed
+visibility dense
