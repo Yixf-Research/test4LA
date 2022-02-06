@@ -4,10 +4,3 @@ shortLabel LoopAnchor-BNS-1
 longLabel This loop file is an example for LoopAnchor
 type bigInteract
 visibility full
-
-track LAbns2
-bigDataUrl http://2792wttzz8.xuduan.vip/VarNoteDB/BNS.bigInteract
-shortLabel LoopAnchor-BNS-2
-longLabel This loop file is an example for LoopAnchor
-type bigInteract
-visibility hide
