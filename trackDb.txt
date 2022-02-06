@@ -1,5 +1,5 @@
 track LAbns
-bigDataUrl https://ghproxy.com/https://raw.githubusercontent.com/Yixf-Research/test4LA/main/BNS.bigInteract
+bigDataUrl https://raw.githubusercontent.com/Yixf-Research/test4LA/main/BNS.bigInteract
 shortLabel LoopAnchor-BNS
 longLabel This loop file is an example for LoopAnchor
 type hic
